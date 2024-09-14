@@ -39,4 +39,4 @@ To view the webpage:
    ```bash
    git clone https://github.com/JokMaker/alu-web-development.git
 
-![Design Preview](./images/design-preview.png)
+![1f4cd63ecc3a8c03b0f4309b74aca179e225aabf](https://github.com/JokMaker/alu-web-development.git/0d7e583a-637f-448d-97ea-f2bad56727d2)
