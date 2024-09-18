@@ -17,12 +17,6 @@ The HTML code is carefully crafted to follow best practices for web development,
 
 The project is organized as follows:
 
-## Designer File
-
-The layout of the webpage is based on a designer file provided as part of the project. This file acts as a blueprint to create the HTML structure.
-
-![Designer File](https://jokmaker.github.io/alu-web-development/assets/designer-file.png)
-
 ## Key Features
 
 1. **Header Section:** Includes navigation links and a logo, following the semantic structure with the `<header>` and `<nav>` tags.
@@ -37,4 +31,4 @@ To view the webpage:
 1. Clone the repository to your local machine. 
    ```bash
    git clone https://github.com/JokMaker/alu-web-development.git
-![Designer File](https://jokmaker.github.io/alu-web-development/assets/designer-file.png)
+![1f4cd63ecc3a8c03b0f4309b74aca179e225aabf](https://github.com/Ronnie5562/alu-web-development/assets/110787129/0d7e583a-637f-448d-97ea-f2bad56727d2)
