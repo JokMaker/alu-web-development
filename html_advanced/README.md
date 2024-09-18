@@ -37,3 +37,4 @@ To view the webpage:
 1. Clone the repository to your local machine. 
    ```bash
    git clone https://github.com/JokMaker/alu-web-development.git
+![Designer File](https://jokmaker.github.io/alu-web-development/assets/designer-file.png)
