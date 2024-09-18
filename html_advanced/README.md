@@ -21,7 +21,7 @@ The project is organized as follows:
 
 The layout of the webpage is based on a designer file provided as part of the project. This file acts as a blueprint to create the HTML structure.
 
-![Designer File](assets/designer-file.png)
+![Designer File](https://jokmaker.github.io/alu-web-development/assets/designer-file.png)
 
 ## Key Features
 
@@ -34,9 +34,6 @@ The layout of the webpage is based on a designer file provided as part of the pr
 
 To view the webpage:
 
-1. Clone the repository to your local machine.
-   
+1. Clone the repository to your local machine. 
    ```bash
    git clone https://github.com/JokMaker/alu-web-development.git
-
-![1f4cd63ecc3a8c03b0f4309b74aca179e225aabf](https://jokmaker.github.io/alu-web-development//0d7e583a-637f-448d-97ea-f2bad56727d2)
